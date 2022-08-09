@@ -1,0 +1,54 @@
+* {
+    margin: 0px;
+    padding: 0px;
+  background-color: #F2F3F4;
+}
+
+nav ul {
+  margin: 90px;
+  margin-top: 10px;
+}
+nav center {
+  margin-top: 20px;
+  font-size: 30px;
+}
+
+nav a {
+  color: blue;
+  padding-top: 20px;
+  list-style: none;
+  text-decoration: none;
+}
+H4 {
+  font-size: 40px;
+}
+
+nav ul a {
+  text-decoration: none;
+}
+
+img src {
+  size: 100px;
+}
+
+div {
+  float: left;
+  margin-left: 20px;
+  padding-bottom: 40px;
+}
+
+h4 {
+  padding: 20px;
+}
+
+smk1{
+  margin: 30px;
+}
+
+class Kartu{
+  float: left;
+}
+navigation{
+  margin: 30px;
+  background-color: blue;
+}
